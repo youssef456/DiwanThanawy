@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/activity_main.xml" value="0.3654891304347826" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/adabysection.xml" value="0.36666666666666664" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/adapter.xml" value="0.3654891304347826" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/comment_list_item.xml" value="0.34601449275362317" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/fragmentbridge.xml" value="0.34601449275362317" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/list.xml" value="0.3654891304347826" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/main_videos.xml" value="0.32019927536231885" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/mathsection.xml" value="0.36666666666666664" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/mcqmain.xml" value="0.22" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/mcqmainactivity.xml" value="0.3654891304347826" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/mcqquestion.xml" value="0.3654891304347826" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/newmainlayout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/newsciencesection.xml" value="0.36666666666666664" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/questionlayout.xml" value="0.20911528150134048" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/layout/quizendedlayout.xml" value="0.3188405797101449" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/menu/home_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Preserved_newthanwyaa29-6-2020/newthanwyaa/app/src/main/res/menu/newmenu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
